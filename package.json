@@ -1,0 +1,25 @@
+{
+  "name": "resampled-date",
+  "version": "0.0.0",
+  "description": "Date helper Node module",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pointofpresence/resampled-date.git"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "date",
+    "helper",
+    "pointofpresence"
+  ],
+  "author": "pointofpresence",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pointofpresence/resampled-date/issues"
+  }
+}
